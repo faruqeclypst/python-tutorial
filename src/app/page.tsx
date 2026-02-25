@@ -300,7 +300,7 @@ function LearningModule() {
             </div>
             <nav className="hidden md:flex items-center gap-1">
               <NavItem href="#pengenalan" icon={BookOpen}>Pengenalan</NavItem>
-              <NavItem href="#mengapa" icon={Rocket}>Mengapa Python?</NavItem>
+              <NavItem href="#mengapa" icon={Rocket}>Alasan</NavItem>
               <NavItem href="#instalasi" icon={Download}>Instalasi</NavItem>
               <NavItem href="#fungsi" icon={FunctionSquare}>Fungsi</NavItem>
               <NavItem href="#istilah" icon={FileCode}>Istilah</NavItem>
@@ -371,7 +371,7 @@ function LearningModule() {
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <div className="text-center mb-12">
               <Badge variant="outline" className="mb-4">Section 2</Badge>
-              <h2 className="text-3xl font-bold text-slate-900 mb-4">Mengapa Harus Belajar Python?</h2>
+              <h2 className="text-3xl font-bold text-slate-900 mb-4">Alasan Mengapa Harus Belajar Python?</h2>
               <p className="text-lg text-slate-600 max-w-2xl mx-auto">Python adalah salah satu bahasa pemrograman paling diminati di dunia teknologi saat ini.</p>
             </div>
 
